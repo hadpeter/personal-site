@@ -1,6 +1,13 @@
-import React from "react";
+import React, { Component } from "react";
 
-export default props => (  
-    <div>    
-        <h>Hadley Peterson</h>
-    </div>);
+class Content extends Component{
+    render(){
+        return <div className = "Content">
+            <h>
+                Hadley Peterson
+            </h>
+        </div>
+    }
+}
+
+export default Content;
