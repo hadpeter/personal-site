@@ -7,8 +7,8 @@ class Projects extends Component{
             <head class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Projects
             </head>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">Personal Projects</h3>
                 <div class="subheading mb-3">Meal Tracking iOS App</div>
                 <ul>
@@ -20,12 +20,12 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">Winter 2020</span>
+            <div class="text-right">
+                <i>Winter 2020</i>
             </div>
             </div>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">EECS 485 Projects</h3>
                 <div class="subheading mb-3">Search Engine</div>
                 <ul>
@@ -91,12 +91,12 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">Winter 2020</span>
+            <div class="text-right">
+                <i>Winter 2020</i>
             </div>
             </div>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">EECS 388 - Security Projects</h3>
                 <div class="subheading mb-3">Forensics Project</div>
                 <ul>
@@ -174,12 +174,12 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">Fall 2019</span>
+            <div class="text-right">
+                <i>Fall 2019</i>
             </div>
             </div>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">EECS 370 - Computer Organization</h3>
                 <div class="subheading mb-3">Virtual Cache Simulator</div>
                 <ul>
@@ -227,12 +227,12 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">Fall 2019</span>
+            <div class="text-right">
+                <i>Fall 2019</i>
             </div>
             </div>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">EECS 281 Projects</h3>
                 <div class="subheading mb-3">Traveling Salesperson Problem Solver</div>
                 <ul>
@@ -274,12 +274,12 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">Winter 2019</span>
+            <div class="text-right">
+                <i>Winter 2019</i>
             </div>
             </div>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">EECS 280 Projects</h3>
                 <div class="subheading mb-3">Machine Learning Piazza Post Labeler</div>
                 <ul>
@@ -336,12 +336,12 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">Winter 2018</span>
+            <div class="text-right">
+                <i>Winter 2018</i>
             </div>
             </div>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">Universidad De Navarra</h3>
                 <div class="subheading mb-3">Mobile Robot</div>
                 <ul>
@@ -353,12 +353,12 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">Summer 2018</span>
+            <div class="text-right">
+                <i>Summer 2018</i>
             </div>
             </div>
-            <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
                 <h3 class="mb-0">ENGIN 100 - Underwater Vehicle Design</h3>
                 <div class="subheading mb-3">Remotely Operated Underwater Vehicle</div>
                 <ul>
@@ -376,8 +376,8 @@ class Projects extends Component{
                 </li>
                 </ul>
             </div>
-            <div class="resume-date text-md-right">
-                <span class="text-primary">April 2018</span>
+            <div class="text-right">
+                <i>April 2018</i>
             </div>
             </div>
         </section>
