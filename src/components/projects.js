@@ -4,13 +4,13 @@ import Container from 'react-bootstrap/Button';
 class Projects extends Component{
     render(){
         return <section id = "projects">
-            <head class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Projects
-            </head>
+            </h1>
             <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
             <div class="text-left">
-                <h3 class="mb-0">Personal Projects</h3>
-                <div class="subheading mb-3">Meal Tracking iOS App</div>
+                <h1 class="mb-0">Personal Projects</h1>
+                <h3 class="text-muted">Meal Tracking iOS App</h3>
                 <ul>
                 <li>
                     Developed a mobile app that allows users to upload photos of, title, and assign ratings to meals. The tool can be used to track diets, cooking recipes, or favorite restaurants
