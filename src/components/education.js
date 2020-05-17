@@ -7,9 +7,9 @@ class Education extends Component{
             <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Education
             </h1>
-            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div>
             <div class="text-left">
-                <h2 class="mb-0">University of Michigan</h2>
+            <h2 class="mb-0">University of Michigan</h2>
                 <div class="text-muted"><i >September 2017 - May 2021</i><br></br>
                 Bachelor of Science, Computer Science Engineering</div>
                 <p class = "text-muted">GPA: 3.39/4.00</p>

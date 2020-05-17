@@ -4,10 +4,12 @@ import Container from 'react-bootstrap/Button';
 class Interests extends Component{
     render(){
         return <section id = "interests">
-            <head class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Interests
-            </head>
-            <ul>
+            </h1>
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
+            <ul class = "text-muted">
                 <li>
                     FinTech
                 </li>
@@ -21,6 +23,8 @@ class Interests extends Component{
                     Yoga and Meditation
                 </li>
             </ul>
+            </div>
+            </div>
         </section>
     }
 }

@@ -4,16 +4,18 @@ import Container from 'react-bootstrap/Button';
 class Skills extends Component{
     render(){
         return <section id = "skills">
-            <head class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Skills
-            </head>
-            <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-            <p>
+            </h1>
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
+            <h3 class = "text-muted">Programming Languages &amp; Tools</h3>
+            <p class = "text-muted">
             C++, Python3, C, Java, C#, JavaScript, HTML, CSS, Swift, Git, SQL, Flask, React, Jinja2, bash, MATLAB
             </p>
 
-            <div class="subheading mb-3">Workflow</div>
-            <ul class="fa-ul mb-0">
+            <h3 class="text-muted">Workflow</h3>
+            <ul class= "text-muted">
                 <li>
                     <i class="fa-li fa fa-check"></i>
                     End to End Testing &amp; Debugging
@@ -23,6 +25,8 @@ class Skills extends Component{
                     Agile Development &amp; Scrum
                 </li>
             </ul>
+            </div>
+            </div>
         </section>
     }
 }
