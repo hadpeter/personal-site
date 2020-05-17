@@ -10,10 +10,10 @@ class Education extends Component{
             <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
             <div class="text-left">
                 <h2 class="mb-0">University of Michigan</h2>
-                <i>September 2017 - May 2021</i>
-                <div class="subheading mb-3">Bachelor of Science, Computer Science Engineering</div>
-                <p>GPA: 3.39/4.00</p>
-                <div class="subheading mb-3">Courses:
+                <div class="text-muted"><i >September 2017 - May 2021</i><br></br>
+                Bachelor of Science, Computer Science Engineering</div>
+                <p class = "text-muted">GPA: 3.39/4.00</p>
+                <div class = "text-muted">Courses:
                 <ul class = "list-unstyled">
                     <li>EECS 485 - Websystems</li>
                     <li>EECS 388 - Introduction to Computer Security</li>

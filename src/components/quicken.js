@@ -3,17 +3,16 @@ import React, { Component } from "react";
 class Quicken extends Component{
 
     render(){
-        return <div className = "Quicken">
+        return <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class = "text-left">
             <h2>
-                Quicken Loans
-            </h2>
-            <h>
                 Software Engineer
-            </h>
-            <p>
+            </h2>
+            <h class = "text-muted">
+                Quicken Loans<br></br>
                 May 2019 - August 2019
-            </p>
-            <ul>
+            </h>
+            <ul class = "text-muted">
                 <li>
                 Led an agile development team by owning and managing the team backlog to implement an internal site providing visibility into AWS Dynamo databases; led daily stand-ups, prioritized work items with engineers and business analysts, and removed roadblocks by connecting engineers with appropriate resources
                 </li>
@@ -27,7 +26,7 @@ class Quicken extends Component{
                 Identified redundancies in an automated testing suite and implemented reusable functionality to prepare test cases, ultimately cutting down test case set-up code by 80%, reducing the possibility of duplication errors
                 </li>
             </ul>
-
+            </div>
         </div>
     }
 }

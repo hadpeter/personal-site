@@ -6,9 +6,9 @@ class Internships extends Component{
     render(){
         return <div className = "Content">
             <section id="internships">
-                <head class="resume-section p-3 p-lg-5 d-flex align-items-center">
+                <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                     Internships
-                </head>
+                </h1>
                 <Quicken></Quicken>
                 <TappanHill></TappanHill>
             </section>
