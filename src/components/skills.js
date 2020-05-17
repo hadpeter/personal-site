@@ -6,7 +6,6 @@ class Skills extends Component{
             <h1 class="resume-section p-lg-5 d-flex">
                 Skills
             </h1>
-            <hr></hr>
             <div class="resume-section p-lg-5 d-flex">
                 <div class="text-left">
                     <h2>Programing Languages &amp; Tools</h2>
