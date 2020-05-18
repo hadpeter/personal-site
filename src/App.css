@@ -5,6 +5,24 @@
   margin-left: 300px;
 }
 
+.name-title {
+  text-transform: uppercase;
+  word-wrap: false;
+}
+
+.social-icons a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff !important;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+}
+
 .sidenav {
   height: 100%;
   width: 300px;
