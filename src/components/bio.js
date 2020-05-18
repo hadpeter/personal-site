@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Container from 'react-bootstrap/Button';
+import { SocialIcon } from 'react-social-icons';
 
 class Bio extends Component{
     render(){
@@ -11,16 +11,10 @@ class Bio extends Component{
             <p class = "text-center">
             I'm a rising Senior at the University of Michigan,  Ann Arbor, majoring in Computer Science. Outside of coursework I enjoy contributing to several student organizations, meditating, and practicing yoga.
             </p>
-            <div class="social-icons">
-            <a href="https://www.linkedin.com/in/hadley-peterson/">
-                <i class="fab fa-linkedin-in"></i>
-            </a>
-            <a href="https://github.com/hadpeter">
-                <i class="fab fa-github"></i>
-            </a>
-            <a href="https://www.facebook.com/profile.php?id=100009512854778">
-                <i class="fab fa-facebook-f"></i>
-            </a>
+            <div>
+                <SocialIcon url = "https://www.linkedin.com/in/hadley-peterson/"></SocialIcon>
+                <SocialIcon url = "https://github.com/hadpeter"></SocialIcon>
+                <SocialIcon url = "https://www.facebook.com/profile.php?id=100009512854778"></SocialIcon>
             </div>
             </section>
             <hr></hr>
