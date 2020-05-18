@@ -15,6 +15,40 @@
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+  flex-direction: column;
+  text-align: left;
+  display: flex;
+}
+
+.navbar-toggler:focus {
+  outline-color: rgba(238, 12, 61, 0.5);
+}
+
+.navbar-text .nav-item .nav-link {
+  font-weight: 800;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+}
+
+.navbar-collapse {
+  display: flex;
+  align-items: flex-start;
+  flex-grow: 0;
+  width: 100%;
+  margin-bottom: auto;
+}
+
+.navbar-collapse .navbar-text {
+  flex-direction: column;
+  width: 100%;
+}
+
+.navbar-collapse .navbar-text .nav-item {
+  display: block;
+}
+
+.navbar-collapse .navbar-text .nav-item .nav-link {
+  display: block;
 }
 
 .App-logo {
