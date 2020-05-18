@@ -12,6 +12,7 @@ class Bio extends Component{
             I'm a rising Senior at the University of Michigan,  Ann Arbor, majoring in Computer Science. Outside of coursework I enjoy contributing to several student organizations, meditating, and practicing yoga.
             </p>
             </section>
+            <hr class = "App-hr"></hr>
         </div>
     }
 }

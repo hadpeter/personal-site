@@ -1,5 +1,4 @@
 import React from 'react';
-import profpic from './components/prof_pic.jpg';
 import './App.css';
 import Bio from './components/bio.js';
 import Internships from './components/internships.js';
