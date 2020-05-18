@@ -17,6 +17,7 @@ function App() {
         <Navigation></Navigation>
         <Bio></Bio>
         <Internships></Internships>
+        <hr></hr>
         <Education></Education>
         <Projects></Projects>
         <Studentorgs></Studentorgs>

@@ -3,9 +3,8 @@ import Container from 'react-bootstrap/Button';
 
 class Navigation extends Component{
     render(){
-        return <div className = "navigation">
-            <Container className="p-3">
-            <nav class="sidenav navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+        return <div class = "navigation">
+            <nav class="sidenav navbar-expand-lg navbar-dark fixed-top sidenav" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">Hadley Peterson</span>
                 <span class="d-none d-lg-block">
@@ -48,7 +47,6 @@ class Navigation extends Component{
             </ul>
             </div>
             </nav>
-            </Container>
         </div>
     }
 }
