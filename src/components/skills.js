@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class Skills extends Component{
     render(){
-        return <section id = "skills">
+        return <div><section id = "skills">
             <h1 class="resume-section p-lg-5 d-flex">
                 Skills
             </h1>
@@ -24,6 +24,8 @@ class Skills extends Component{
                 </div>
             </div>
         </section>
+        <hr></hr>
+        </div>
     }
 }
 

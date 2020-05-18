@@ -2,7 +2,8 @@ import React, { Component } from "react";
 
 class Education extends Component{
     render(){
-        return <section id = "education">
+        return <div class = "education">
+            <section id = "education">
             <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Education
             </h1>
@@ -18,7 +19,9 @@ class Education extends Component{
                     </p>
                 </div>
             </div>
-        </section>
+            </section>
+            <hr></hr>
+        </div>
     }
 }
 

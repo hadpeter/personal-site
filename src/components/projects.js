@@ -3,7 +3,8 @@ import Container from 'react-bootstrap/Button';
 
 class Projects extends Component{
     render(){
-        return <section id = "projects">
+        return <div>
+            <section id = "projects">
             <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Projects
             </h1>
@@ -369,7 +370,9 @@ class Projects extends Component{
                 </ul>
             </div>
             </div>
-        </section>
+            </section>
+            <hr></hr>
+        </div>
     }
 }
 

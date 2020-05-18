@@ -1,13 +1,13 @@
 .App {
   text-align: left;
-  background-color: rgb(221, 221, 212);
+  background-color: rgb(250, 240, 249);
   color: rgb(7, 93, 133);
-  margin-left: 200px;
+  margin-left: 300px;
 }
 
 .sidenav {
   height: 100%;
-  width: 200px;
+  width: 300px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -16,11 +16,10 @@
   overflow-x: hidden;
   padding-top: 20px;
   flex-direction: column;
-  text-align: center;
+  text-align: left;
   display: flex;
   text-transform: uppercase;
   font-size: 10;
-  font-family: "Courier New", Courier, monospace;
 }
 
 .nav {
@@ -66,7 +65,7 @@
 }
 
 .App-header {
-  background-color:rgb(221, 221, 212);
+  background-color:rgb(250, 240, 249);
   min-height: 100vh;
   display: flex;
   flex-direction: column;

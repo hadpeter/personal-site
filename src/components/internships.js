@@ -12,6 +12,7 @@ class Internships extends Component{
                 <Quicken></Quicken>
                 <TappanHill></TappanHill>
             </section>
+            <hr></hr>
         </div>
     }
 }

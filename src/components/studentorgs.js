@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class Studentorgs extends Component{
     render(){
-        return <section id = "studentorgs">
+        return <div><section id = "studentorgs">
             <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 Student Organizations
             </h1>
@@ -81,6 +81,8 @@ class Studentorgs extends Component{
                 </div>
             </div>
         </section>
+        <hr></hr>
+        </div>
     }
 }
 
