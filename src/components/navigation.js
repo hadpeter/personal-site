@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Container from 'react-bootstrap/Button';
+import prof_pic from './img/prof_pic.jpg';
 
 class Navigation extends Component{
     render(){
@@ -8,7 +8,7 @@ class Navigation extends Component{
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">Hadley Peterson</span>
                 <span class="d-none d-lg-block">
-                    <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/prof_pic.jpg" alt=""/>
+                    <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src={prof_pic} alt=""/>
                 </span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

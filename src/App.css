@@ -2,7 +2,7 @@
   text-align: left;
   background-color: rgb(250, 240, 249);
   color: rgb(7, 93, 133);
-  margin-left: 300px;
+  margin-left: 250px;
 }
 
 .name-title {
@@ -10,17 +10,22 @@
   word-wrap: false;
 }
 
-.social-icons a {
-  display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #495057;
-  color: #fff !important;
+.social-icon {
   border-radius: 100%;
   text-align: center;
-  font-size: 1.5rem;
-  line-height: 3.5rem;
   margin-right: 1rem;
+}
+
+.navbar-brand {
+  display: flex;
+  margin: auto auto 0;
+  padding: 0.5rem;
+}
+
+.navbar-brand .img-profile {
+  max-width: 10rem;
+  max-height: 10rem;
+  border: 0.5rem solid rgba(255, 255, 255, 0.2);
 }
 
 .sidenav {
@@ -44,36 +49,49 @@
   background-color: rgb(7, 93, 133);
 }
 
-.navbar-text .nav-item .nav-link {
-  font-weight: 800;
-  letter-spacing: 0.05rem;
-  text-transform: uppercase;
-}
-
-.navbar-collapse {
-  display: flex;
-  align-items: flex-start;
-  flex-grow: 0;
-  width: 100%;
-  margin-bottom: auto;
-}
-
-.navbar-collapse .navbar-text {
-  flex-direction: column;
-  width: 100%;
-}
-
-.navbar-collapse .navbar-text .nav-item {
-  display: block;
-}
-
-.navbar-collapse .navbar-text .nav-item .nav-link {
-  display: block;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+@media (min-width: 992px) {
+  #sideNav {
+    text-align: left;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 17rem;
+    height: 100vh;
+  }
+  #sideNav .navbar-brand {
+    display: flex;
+    margin: auto auto 0;
+    padding: 0.5rem;
+  }
+  #sideNav .navbar-brand .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+  #sideNav .navbar-collapse {
+    display: flex;
+    align-items: flex-start;
+    flex-grow: 0;
+    width: 100%;
+    margin-bottom: auto;
+  }
+  #sideNav .navbar-collapse .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+  }
+  #sideNav .navbar-collapse .navbar-nav .nav-item {
+    display: block;
+  }
+  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    display: block;
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {

@@ -11,12 +11,12 @@ class Bio extends Component{
             <p class = "text-center">
             I'm a rising Senior at the University of Michigan,  Ann Arbor, majoring in Computer Science. Outside of coursework I enjoy contributing to several student organizations, meditating, and practicing yoga.
             </p>
-            <div>
-                <SocialIcon url = "https://www.linkedin.com/in/hadley-peterson/"></SocialIcon>
-                <SocialIcon url = "https://github.com/hadpeter"></SocialIcon>
-                <SocialIcon url = "https://www.facebook.com/profile.php?id=100009512854778"></SocialIcon>
-            </div>
             </section>
+            <div class = "text-center">
+                <SocialIcon url = "https://www.linkedin.com/in/hadley-peterson/" class = "social-icon"></SocialIcon>
+                <SocialIcon url = "https://github.com/hadpeter" class = "social-icon"></SocialIcon>
+                <SocialIcon url = "https://www.facebook.com/profile.php?id=100009512854778" class = "social-icon"></SocialIcon>
+            </div>
             <hr></hr>
         </div>
     }
