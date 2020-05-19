@@ -5,6 +5,10 @@
   margin-left: 250px;
 }
 
+h1 {
+  text-transform: uppercase;
+}
+
 .name-title {
   text-transform: uppercase;
   word-wrap: false;
