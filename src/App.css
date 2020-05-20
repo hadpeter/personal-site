@@ -2,7 +2,6 @@
   text-align: left;
   background-color: rgb(250, 240, 249);
   color: rgb(7, 93, 133);
-  margin-left: 250px;
 }
 
 h1 {
@@ -34,19 +33,9 @@ h1 {
 
 .sidenav {
   height: 100%;
-  width: 300px;
-  position: fixed;
+  width: 100px;
   z-index: 1;
-  top: 0;
-  left: 0;
   background-color: rgb(7, 93, 133);
-  overflow-x: hidden;
-  padding-top: 20px;
-  flex-direction: column;
-  text-align: left;
-  display: flex;
-  text-transform: uppercase;
-  font-size: 10;
 }
 
 .nav {
@@ -58,10 +47,46 @@ h1 {
   pointer-events: none;
 }
 
-@media (min-width: 992px) {
+@media (max-width: 992px) {
+  .App {
+    margin-left: 0px;
+  }
+
+  .bio-name {
+    width: 400px;
+    height: 100 px;
+  }
+
+  .bio-blurb {
+    text-align: center;
+    display: flex;
+    font-size: 5;
+    text-transform: normal;
+  }
+
   #sideNav {
     text-align: left;
     position: fixed;
+    text-transform: uppercase;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 0px;
+    height: 150vh;
+  }
+
+}
+
+@media (min-width: 992px) {
+  .App {
+    margin-left: 250px;
+  }
+
+  #sideNav {
+    text-align: left;
+    position: fixed;
+    text-transform: uppercase;
     top: 0;
     left: 0;
     display: flex;
