@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Quicken from "./quicken";
 import TappanHill from "./tappanHill";
+import CapitalOne from "./capitalOne";
 
 class Internships extends Component{
     render(){
@@ -9,6 +10,7 @@ class Internships extends Component{
                 <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
                     Internships
                 </h1>
+                <CapitalOne></CapitalOne>
                 <Quicken></Quicken>
                 <TappanHill></TappanHill>
             </section>

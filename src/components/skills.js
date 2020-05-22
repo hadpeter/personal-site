@@ -8,11 +8,11 @@ class Skills extends Component{
             </h1>
             <div class="resume-section p-lg-5 d-flex">
                 <div class="text-left">
-                    <h2>Programing Languages &amp; Tools</h2>
+                    <h2>Programming Languages &amp; Tools</h2>
                         <p class = "text-muted">
-                        C++, Python3, C, Java, C#, JavaScript, HTML, CSS, Swift, Git, SQL, Flask, React, Jinja2, bash, MATLAB, Arduino, AWS DynamoDB
+                        C++, Python, C, Java, C#, JavaScript, HTML, CSS, Swift, Git, SQL, Flask, React, Jinja2, bash, MATLAB, Arduino, AWS DynamoDB
                         </p>
-                    <h2>Workflow</h2>
+                    <h2>Workflows</h2>
                         <ul class= "text-muted">
                             <li>
                                 End to End Testing &amp; Debugging

@@ -38,7 +38,7 @@ class Projects extends Component{
                     Developed a multi-stage pipeline that upon an input of documents, executes four map and four reduce executables, to construct an inverted index
                 </li>
                 <li>
-                    Constructed an index server accessed by a REST API that returns the most relevant documents for a query. The relevance of a document was a measure of its tf-idf cosine similarity score and its page rank score.
+                    Constructed an index server accessed by a REST API that returns the most relevant documents for a query. The relevance of a document was a measure of its tf-idf cosine similarity score and its page rank score
                 </li>
                 <li>
                     Flask, Hadoop, MapReduce, Multistage Pipeline, Inverted Index and bash
@@ -62,7 +62,7 @@ class Projects extends Component{
                     Created a REST API and React front end to make a client side dynamic site
                 </li>
                 <li>
-                    Used asynchronous programing and props inheritance to present multiple dynamic components concurrently
+                    Used asynchronous programming and props inheritance to present multiple dynamic components concurrently
                 </li>
                 <li>
                     Implemented features such as infinite scroll, double clicking an image to like, and automatically rendering new comments
@@ -86,7 +86,7 @@ class Projects extends Component{
                 <h4>Instagram Website I - Templated Static Site Generator</h4>
                 <ul class = "text-muted">
                 <li>
-                    Developed a python program to render HTML templates into a static site
+                    Developed a Python program to render HTML templates into a static site
                 </li>
                 <li>
                     Constructed HTML templates for a home page, profile page, followers page, following page, user pages, explore page and post pages
@@ -116,7 +116,7 @@ class Projects extends Component{
                 <h4>App Security Project</h4>
                 <ul class = "text-muted">
                 <li>
-                    Analyzed programs and determined areas of vulnerability to overwrite the buffer. Use buffer overflow attacks to manipulate the behavior of the program, such as changing output or opening a root shell
+                    Analyzed programs and determined areas of vulnerability to overwrite the buffer. Used buffer overflow attacks to manipulate the behavior of the program, such as changing output or opening a root shell
                 </li>
                 <li>
                     Constructed programs that involved indirectly overwriting the return address, opening a root shell from a program where data execution prevention (DEP) had been enabled, opening a root shell from a program that used address-space layout randomization (ASLR), and using ROP gadgets to open a shell
@@ -149,7 +149,7 @@ class Projects extends Component{
                     Constructed a url that when loaded in a user's browser, executes a cross site scripting attack, logging the attacker into the user's account. Bypasses defenses including the removal of "script", several tags, and some punctuation
                 </li>
                 <li>
-                    Wrote an HTML file that when opened by a user, logs them into an account the attacker controls, giving the attacker the ability to monitor a user's search history. Bypasses a defense that validates users tokens
+                    Wrote an HTML file that when opened by a user, logs them into an account the attacker controls, giving the attacker the ability to monitor a user's search history. Bypasses a defense that validates user's tokens
                 </li>
                 <li>
                     SQL, HTML, JavaScript
@@ -257,7 +257,7 @@ class Projects extends Component{
                 <h4>Star Wars Galaxy Game</h4>
                 <ul class = "text-muted">
                 <li>
-                    Implemented a pairing priority queue to develop a star wars themed game between two opponents
+                    Implemented a pairing priority queue to develop a Star Wars themed game between two opponents
                 </li>
                 <li>
                     Written in C++
@@ -281,7 +281,7 @@ class Projects extends Component{
                 <h4>Machine Learning Piazza Post Labeler</h4>
                 <ul class = "text-muted">
                 <li>
-                    Wrote code to take in sample data containing past piazza posts with their corresponding label. This was the training set of data. After processing this, the program would take in the test data which consisted of unlabeled piazza posts. Based on the training data, the program was able to label piazza posts at an 87% accuracy rate. This was my first opportunity to explore machine learning, and I loved the experience. Piazza is a website University of Michigan students use to post questions to the courses they are enrolled in. This program is relevant because it can be used to categorize the topic of a student's question for them based on key words.
+                    Wrote code to take in sample data containing past piazza posts with their corresponding label. This was the training set of data. After processing this, the program would take in the test data which consisted of unlabeled piazza posts. Based on the training data, the program was able to label piazza posts at an 87% accuracy rate. This was my first opportunity to explore machine learning, and I loved the experience. Piazza is a website University of Michigan students use to post questions to the courses they are enrolled in. This program is relevant because it can be used to categorize the topic of a student's question based on key words.
                 </li>
                 <li>
                     Caught all 16 errors in 39 test cases
@@ -336,7 +336,7 @@ class Projects extends Component{
             </div>
             <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
             <div class="text-left">
-                <h3>Universidad De Navarra</h3>
+                <h3>Universidad De Navarra - San Sebastian Spain</h3>
                 <h5 class = "text-right"><i>Summer 2018</i></h5>
                 <h4>Mobile Robot</h4>
                 <ul class = "text-muted">

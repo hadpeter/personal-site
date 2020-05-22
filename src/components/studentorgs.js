@@ -4,7 +4,7 @@ class Studentorgs extends Component{
     render(){
         return <div><section id = "studentorgs">
             <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
-                Student Organizations
+                Organizations
             </h1>
             <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 <div class="text-left">
@@ -20,7 +20,7 @@ class Studentorgs extends Component{
                             Fostered education on venture capital by hosting community speaker events, networking sessions, and market update discussions
                         </li>
                         <li>
-                            Selected to partake in market discussion and analyze what market sectors are promising for deal sourcing. In total, we have sourced 11 deals to our partnered VCs.
+                            Selected to partake in market discussion and analyze what market sectors are promising for deal sourcing. In total, we have sourced 11 deals to our partnered VCs
                         </li>
                         <li>
                             Hosted speaker events to educate the Ann Arbor community about venture capital and network directly with successful venture capitalists and entrepreneurs
@@ -59,7 +59,7 @@ class Studentorgs extends Component{
                     September 2017 - July 2019
                     </h>
                     <p class = "text-muted">
-                    Makeathon is a 36-hour long product design competition that empowers students with the mentorship and materials needed to create impactful and innovative products
+                    Makeathon is a 36-hour long product design competition that empowers students with the mentorship and materials needed to create impactful and innovative products.
                     </p>
                     <ul class = "text-muted">
                         <li>
@@ -69,13 +69,13 @@ class Studentorgs extends Component{
                             Sourced and secured sponsorships in excess of $25,000 from 15+ sponsors including Autodesk, National Instruments and General Electric
                         </li>
                         <li>
-                            Designed and implemented a case competition, balancing rigor and flexibility to maximize participant engagement. The case is centered around the automotive industry and specifically autonomous vehicles. 
+                            Designed and implemented a case competition, balancing rigor and flexibility to maximize participant engagement. The case is centered around the automotive industry and specifically autonomous vehicles
                         </li>
                         <li>
                             Created and put into motion marketing initiatives to attract students of all undergraduate years, as well as master students, through in-person marketing, social media, and press releases
                         </li>
                         <li>
-                            Created an interdisciplinary prize to encourage cross-school collaboration and diversification of event participants and products created. Historically, Makeathon has suffered from a lack of representation across schools; 73% of our participants last year were from the college of engineering.
+                            Created an interdisciplinary prize to encourage cross-school collaboration and diversification of event participants and products created. Historically, Makeathon has suffered from a lack of representation across schools; 73% of our participants last year were from the college of engineering
                         </li>
                     </ul>
                 </div>
