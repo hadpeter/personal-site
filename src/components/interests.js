@@ -9,7 +9,7 @@ class Interests extends Component{
             <div class="p-lg-5 d-flex ml-auto p-2 align-items-left">
                 <div class="text-left">
                     <p class = "text-muted">
-                        The Dark Web, Networking, Asyncronous Programming, P versus NP Problem, the Future of Cryptography, FinTech, Entrepreneurship, Venture Capital, Women's Rights, Yoga, Meditation, Water Skiing, Gardening
+                        Cloud Computing, AWS, Networking, The Dark Web, Networking, Asyncronous Programming, P versus NP Problem, the Future of Cryptography, FinTech, Entrepreneurship, Venture Capital, Women's Rights, Yoga, Meditation, Water Skiing, Gardening
                     </p>
                 </div>
             </div>

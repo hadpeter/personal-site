@@ -14,13 +14,13 @@ class TappanHill extends Component{
             </h>
             <ul class = "text-muted">
                 <li>
-                Performed start-to-finish diligence across multiple investment opportunities; outputs included competitor analysis, market sizing, financial forecasting, customer references and valuation
+                Performed start-to-finish diligence across multiple investment opportunities; outputs included competitor analysis, market sizing, financial forecasting, customer references and valuation.
                 </li>
                 <li>
-                Advised partnership to pass on nine evaluated investment opportunities across the cybersecurity, blockchain, and asset management sectors
+                Advised partnership to pass on nine evaluated investment opportunities across the cybersecurity, blockchain, and asset management sectors.
                 </li>
                 <li>
-                Advised a cybersecurity startup on exit strategies and met with the CEO to investigate their market position
+                Advised a cybersecurity startup on exit strategies and met with the CEO to investigate their market position.
                 </li>
             </ul>
             </div>

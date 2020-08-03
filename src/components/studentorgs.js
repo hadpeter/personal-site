@@ -8,6 +8,17 @@ class Studentorgs extends Component{
             </h1>
             <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
                 <div class="text-left">
+                    <h2>Fellow</h2>
+                    <h class = "text-muted">Rewriting the Code<br></br>
+                    June 2020 - Present
+                    </h>
+                    <p class = "text-muted">
+                    Rewriting the Code is a non-profit organization focused on empowering college, graduate, and early career women in technology. By providing intersectional communities, mentorship, industry experience, and educational resources, they are building the next generation of engineers and technology leaders.
+                    </p>
+                </div>
+            </div>
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+                <div class="text-left">
                     <h2>Fellow and Mentor</h2>
                     <h class = "text-muted">UpRound Ventures<br></br>
                     October 2018 - Present

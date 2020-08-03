@@ -17,12 +17,37 @@ class Projects extends Component{
                 <h4>Meal Tracking iOS App</h4>
                 <ul class = "text-muted">
                 <li>
-                    Developed a mobile app that allows users to upload photos of, title, and assign ratings to meals. The tool can be used to track diets, cooking recipes, or favorite restaurants
+                    Developed a mobile app that allows users to upload photos of, title, and assign ratings to meals
+                </li>
+                <li>
+                    The tool can be used to track diets, cooking recipes, or favorite restaurants
                 </li>
                 <li>
                     Written in Swift
                 </li>
                 </ul>
+                <h4>Positive Affirmations iOS App</h4>
+                <ul class = "text-muted">
+                <li>
+                    Constructed a mobile app that shares random positive affirmations with users
+                </li>
+                <li>
+                    Users have the capability to favorite affirmations that resonate with them and access the favorites list
+                </li>
+                <li>
+                    Written in Swift
+                </li>
+                </ul>
+                <h4>HumanKind Database</h4>
+                <ul class = "text-muted">
+                <li>
+                    Assembled JavaScript application to convert Google Form responses into a secure AWS DynamoDB instance with React frontend
+                </li>
+                <li>
+                    Used by HumanKind, an organization working to connect college students with volunteer opportunities during COVID-19
+                </li>
+                </ul> 
+                
             </div>
             <div class="text-nowrap">
                 
