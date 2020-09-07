@@ -23,7 +23,7 @@ class Navigation extends Component{
                 </li>
                 <br></br>
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#internships">Internships</a>
+                <a class="nav-link js-scroll-trigger" href="#internships">Work Experience</a>
                 </li>
                 <br></br>
                 <li class="nav-item">
