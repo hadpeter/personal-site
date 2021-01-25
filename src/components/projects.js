@@ -50,7 +50,102 @@ class Projects extends Component{
                 
             </div>
             <div class="text-nowrap">
-                
+            </div>
+            </div>
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
+                <h3 class="mb-0">EECS 482 Projects</h3>
+                <h5 class = "text-right"><i>Fall 2020</i></h5>
+                <h4>File System</h4>
+                <ul class = "text-muted">
+                <li>
+                    Developed a hierarchical file system supporting naming, creating, deleting, moving, reading, and writing files
+                </li>
+                <li>
+                    Used shadowing to ensure crash consistency
+                </li>
+                <li>
+                    Implemented fine grain locking to optimize access time while maintaining consistency
+                </li>
+                <li>
+                    C++
+                </li>
+                </ul>
+                <h4>Memory Manager</h4>
+                <ul class = "text-muted">
+                <li>
+                    Implemented a multi-threaded pager to manage the virtual address spaces for swap backed and file backed pages
+                </li>
+                <li>
+                    Supports creating, copying, destroying and switching between address spaces
+                </li>
+                <li>
+                    Create fork function to allocate space in existing address spaces
+                </li>
+                <li>
+                    Developed an interrupt handler to load memory with correct read, write, dirty, reference and resident bits upon memory faults. Set bits strategically to optimize read opperations, the common case.
+                </li>
+                <li>
+                    Programmed a clock algorithm to approximate the LRU when evicting physical memory
+                </li>
+                <li>
+                    C++
+                </li>
+                </ul>
+                <h4>Thread Library</h4>
+                <ul class = "text-muted">
+                <li>
+                    Wrote libraries to create a multi-threaded system through abstractions for the cpu, mutexes, condition variables, and threads
+                </li>
+                <li>
+                    Designed interupt handler to account for timer and inter-processor interrupts 
+                </li>
+                <li>
+                    Supports multiple CPUs, joining threads, waiting on condition variables, yielding, and context switches
+                </li>
+                <li>
+                    C++, pImpl
+                </li>
+                </ul>
+                <h4>Disk Scheduler</h4>
+                <ul class = "text-muted">
+                <li>
+                    Developed a multi threaded disk schedule with a first in first out queueing system
+                </li>
+                <li>
+                    C++
+                </li>
+                </ul>
+            </div>
+            </div>
+            <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
+            <div class="text-left">
+                <h3 class="mb-0">EECS 495 Projects</h3>
+                <h5 class = "text-right"><i>Fall 2020</i></h5>
+                <h4>Artsy</h4>
+                <ul class = "text-muted">
+                <li>
+                    Worked with clinitians at Michigan Medicine to understand Patients' needs. Wrote and presented a proposal for a painting inspired iPad app to encourage proper spirometer usage acorss patients of all ages, while improving patients' mental health
+                </li>
+                <li>
+                    Led an 8 person team to develop the proposed iPad app, fascillitated team meetings between the frontend and backend groups
+                </li>
+                <li>
+                    Developed a serverless API to handle patient and spirometer data using AWS Lambda, API Gateway, DynamoDB, and an S3 bucket
+                </li>
+                <li>
+                    Ideated and implemented a tagging interaction to allow for patients to add positive tags to one another's photos while eliminating the potential for harmful messaging
+                </li>
+                <li>
+                    Constructed functions to create pre-signed urls to upload or access patient drawings in the S3 bucket securely, to ensure patient privacy
+                </li>
+                <li>
+                    Created an organizational structure to the S3 bucket to reduce query time
+                </li>
+                <li>
+                    Python, AWS, Unity
+                </li>
+                </ul>
             </div>
             </div>
             <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
