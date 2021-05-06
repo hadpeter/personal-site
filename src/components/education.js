@@ -14,7 +14,7 @@ class Education extends Component{
                     <h class = "text-muted"><i> September 2017 - May 2021</i><br></br>
                     </h>
                     <p class = "text-muted">
-                        GPA: 3.39/4.00<br></br>
+                        GPA: 3.45/4.00<br></br>
                         Relevant Courses: 
                         <ul>
                             <li>
