@@ -10,7 +10,7 @@ class Quicken extends Component{
             </h2>
             <h class = "text-muted">
                 University of Michigan College of Engineering<br></br>
-                August 2020 - Present
+                August 2020 - May 2021
             </h>
             <ul class = "text-muted">
                 <li>EECS 376 is an introduction to the theory of computation. Topics include models of computation, decidable and undecidable problems, polynomial time computability, paradigms of algorithm design, computational complexity emphasizing NP-hardness, coping with intractability, and exploiting the intractability of cryptography.</li>
