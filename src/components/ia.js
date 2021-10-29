@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Quicken extends Component{
+class IA extends Component{
 
     render(){
         return <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
@@ -20,4 +20,4 @@ class Quicken extends Component{
     }
 }
 
-export default Quicken;
+export default IA;

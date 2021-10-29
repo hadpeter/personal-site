@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Bio from './components/bio.js';
+import IA from './components/ia.js';
 import Internships from './components/internships.js';
 import FullTime from './components/fulltime.js';
 import Navigation from './components/navigation.js';
@@ -17,6 +18,7 @@ function App() {
         <Navigation></Navigation>
         <Bio></Bio>
         <FullTime></FullTime>
+        <IA></IA>
         <Internships></Internships>
         <Education></Education>
         <Projects></Projects>
