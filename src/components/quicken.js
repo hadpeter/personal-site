@@ -6,7 +6,7 @@ class Quicken extends Component{
         return <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
             <div class = "text-left">
             <h2>
-                Software Engineering
+                Software Engineer Intern
             </h2>
             <h class = "text-muted">
                 Quicken Loans<br></br>

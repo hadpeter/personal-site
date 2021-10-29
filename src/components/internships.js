@@ -9,7 +9,7 @@ class Internships extends Component{
         return <div className = "Content">
             <section id="internships">
                 <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
-                    Work Experience
+                    Internship Work Experience
                 </h1>
                 <IA></IA>
                 <CapitalOne></CapitalOne>
