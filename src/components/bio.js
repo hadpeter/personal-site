@@ -8,7 +8,7 @@ class Bio extends Component{
             <div class = "text-center">
                 <h1>Hadley Peterson</h1> 
                 <p class = "bio-blurb">
-                I'm a New Grad from the University of Michigan,  Ann Arbor, with a degree in Computer Science from the College of Engineering. I enjoy contributing to several student organizations, meditating, and practicing yoga. In the fall, I will be joining Capital One as a Software Engineer in the New York City Office.
+                I'm an associate software engineer at Capital One working in the Center for Machine Learning. I recently graduated from the University of Michigan,  Ann Arbor, with a degree in Computer Science from the College of Engineering. Outside work, I enjoy exploring crypto, meditating, and practicing yoga.
                 </p>
             </div> 
             </section>
