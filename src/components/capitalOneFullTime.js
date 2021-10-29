@@ -22,4 +22,4 @@ class CapitalOneFullTime extends Component{
     }
 }
 
-export default CapitalOne;
+export default CapitalOneFullTime;

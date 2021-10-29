@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Bio from './components/bio.js';
 import Internships from './components/internships.js';
+import FullTime from './components/fulltime.js';
 import Navigation from './components/navigation.js';
 import Education from './components/education.js';
 import Projects from './components/projects.js';
@@ -15,6 +16,7 @@ function App() {
       <header className="App-header">
         <Navigation></Navigation>
         <Bio></Bio>
+        <FullTime></FullTime>
         <Internships></Internships>
         <Education></Education>
         <Projects></Projects>
