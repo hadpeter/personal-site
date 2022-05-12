@@ -13,9 +13,10 @@ class CapitalOneFullTime extends Component{
                 August 2021 - Present
             </h>
             <ul class = "text-muted">
-                <li>Led POC for enabling runtime lineage of features in the QA environment by integrating lineage package into the existing featuring store sdk. Collaborated across teams and demo’ed POC to stakeholders. Lineage allows customers to understand the datasources used to create the outputted feature dataset.</li>
-                <li>Developed script to automate mapping the extract class names to a feature in order to group features by shared extracts. Findings were used to analyze cost savings for reusing extracts.</li>
-                <li>Enabled slack notification events upon a feature job completing or failing. Events include useful debugging information for Machine Learning Engineers such as links to splunk logs, a useful error message, and other feature data</li>
+                <li>Pioneered compute alternative for enterprise batch feature calculations, implementing operator to run feature jobs on Kubernetes. Yielded 10x efficiency savings compared to existing option, Elastic Map Reduce.</li>
+                <li>Piloted use of hierarchical namespaces to support division-wide configuration inheritance. Shared configurations simplified the data scientist onboarding process and improved debugging feature failures.</li>
+                <li>Led proof of concept to enable runtime lineage for features. Integration provided users with lineage graphs, data transformations, and other information to help data scientists meet model regulatory requirements.</li>
+                <li>Designed and implemented migration of IAM resource deployment to a managed pipeline. Documented organization-wide approach to assist other teams in CI/CD efforts.</li>
             </ul>
             </div>
         </div>
