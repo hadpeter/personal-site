@@ -6,7 +6,7 @@ class FullTime extends Component{
         return <div className = "Content">
             <section id="fulltime">
                 <h1 class="resume-section p-3 p-lg-5 d-flex align-items-center">
-                    Full Time Work Experience
+                    Work Experience
                 </h1>
                 <CapitalOneFullTime></CapitalOneFullTime>
             </section>
