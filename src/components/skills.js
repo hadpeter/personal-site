@@ -8,9 +8,9 @@ class Skills extends Component{
             </h1>
             <div class="resume-section p-lg-5 d-flex">
                 <div class="text-left">
-                    <h2>Programming Languages &amp; Tools</h2>
+                    <h2>Programming Languages, Technologies &amp; Tools</h2>
                         <p class = "text-muted">
-                        C++, Python, C, Java, C#, JavaScript, HTML, CSS, Swift, Git, SQL, Flask, React, Jinja2, bash, MATLAB
+                        Python, C++, C, Java, JavaScript, Swift, SQL, Flask, React, Kubernetes, AWS, Lambda, DynamoDB, EMR, ECS, RDS, Snowflake, Jenkins, Git
                         </p>
                     <h2>Workflows</h2>
                         <ul class= "text-muted">
@@ -21,7 +21,7 @@ class Skills extends Component{
                                 Unit Testing
                             </li>
                             <li>
-                                End to End Testing &amp; Debugging
+                                End to End Testing
                             </li>
                             <li>
                                 Agile Development &amp; Scrum
