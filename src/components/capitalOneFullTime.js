@@ -6,11 +6,21 @@ class CapitalOneFullTime extends Component{
         return <div class="resume-section p-3 p-lg-5 d-flex align-items-center">
             <div class = "text-left">
             <h2>
+                Senior Associate Software Engineer
+            </h2>
+            <h class = "text-muted">
+                Capital One <br></br>
+                July 2022 - Present
+            </h>
+            <ul class = "text-muted">
+                <li>Expanded api endpoint functionality to support documentation in search indicies to restore lost data in production</li>
+            </ul>
+            <h2>
                 Associate Software Engineer
             </h2>
             <h class = "text-muted">
                 Capital One <br></br>
-                August 2021 - Present
+                August 2021 - July 2022
             </h>
             <ul class = "text-muted">
                 <li>Pioneered compute alternative for enterprise batch feature calculations, implementing operator to run feature jobs on Kubernetes. Yielded 10x speed boost compared to existing option, Elastic Map Reduce.</li>
