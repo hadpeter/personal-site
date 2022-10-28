@@ -13,7 +13,9 @@ class CapitalOneFullTime extends Component{
                 July 2022 - Present
             </h>
             <ul class = "text-muted">
-                <li>Expanded api endpoint functionality to support documentation in search indicies to restore lost data in production</li>
+                <li>Added consideration of additional fields in document search. Normalized and boosted various fields to optimize search results.</li>
+                <li>Led several disaster recovery events to show service's resiliency through automatic and manual failovers.</li>
+                <li>Expanded api endpoint functionality to support document creation in search indicies to restore lost data in production.</li>
             </ul>
             <h2>
                 Associate Software Engineer
