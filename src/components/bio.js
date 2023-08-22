@@ -38,7 +38,7 @@ class Bio extends Component{
                     <a href = "https://github.com/hadpeter">
                         <StyledIcon icon="charm:github" color='black'/>
                     </a>
-                    <a href = "https://hadleypeterson.substack.com/publish?utm_source=menu">
+                    <a href = "https://hadleypeterson.substack.com/">
                         <StyledIcon icon="simple-icons:substack" color='orange'/>
                     </a>
                 </IconInnerContainer>
