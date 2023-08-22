@@ -26,7 +26,7 @@ class Bio extends Component{
             <div class = "text-center">
                 <h1>Hadley Peterson</h1> 
                 <p class = "bio-blurb">
-                I'm a senior associate software engineer at Capital One passionate about FinTech, social entrepreneurhsip and cloud technology. I am a University of Michigan grad with a degree in Computer Science from the College of Engineering. Outside work, I enjoy writing tech blogs, meditating, and practicing yoga.
+                I'm a senior associate software engineer at Capital One passionate about FinTech, social entrepreneurhsip and cloud technology. I am a University of Michigan grad with a degree in Computer Science from the College of Engineering. Outside work, I am a yoga teacheer, avid Substack writer, and enthusiastic gardener.
                 </p>
             </div> 
             </section>
